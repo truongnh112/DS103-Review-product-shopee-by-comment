@@ -1,0 +1,14 @@
+{
+    "folders": [
+		{
+			"path": "../Train ML/VSFC"
+		},
+		{
+			"path": "../../Downloads/ML-code"
+		},
+		{
+			"path": "."
+		}
+	],
+    "settings": {}
+}
